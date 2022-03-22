@@ -9,7 +9,7 @@
   
   inputs.src-shioridll-v1_0_1.flake = false;
   inputs.src-shioridll-v1_0_1.owner = "Narazaka";
-  inputs.src-shioridll-v1_0_1.ref   = "refs/tags/v1.0.1";
+  inputs.src-shioridll-v1_0_1.ref   = "v1_0_1";
   inputs.src-shioridll-v1_0_1.repo  = "shioridll-nim";
   inputs.src-shioridll-v1_0_1.type  = "github";
   
