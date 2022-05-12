@@ -55,11 +55,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1651556010,
-        "narHash": "sha256-FidMUcnGOfQ2VzT4qm4stKaOFhg5nLlGP63GntVl+UM=",
+        "lastModified": 1651918414,
+        "narHash": "sha256-cfkyywEzrIR5eEwc4VyyURPtGYR+7k2WhopXSLX5Odg=",
         "owner": "nim-nix-pkgs",
         "repo": "shioridll",
-        "rev": "f9aaffb75647195198464461679516e6911a2829",
+        "rev": "579a7984b79562c52dcc21eaed1dc7c5bd86f029",
         "type": "github"
       },
       "original": {
@@ -82,11 +82,11 @@
       },
       "locked": {
         "dir": "v1_0_0",
-        "lastModified": 1651556010,
-        "narHash": "sha256-FidMUcnGOfQ2VzT4qm4stKaOFhg5nLlGP63GntVl+UM=",
+        "lastModified": 1651918414,
+        "narHash": "sha256-cfkyywEzrIR5eEwc4VyyURPtGYR+7k2WhopXSLX5Odg=",
         "owner": "nim-nix-pkgs",
         "repo": "shioridll",
-        "rev": "f9aaffb75647195198464461679516e6911a2829",
+        "rev": "579a7984b79562c52dcc21eaed1dc7c5bd86f029",
         "type": "github"
       },
       "original": {
@@ -109,11 +109,11 @@
       },
       "locked": {
         "dir": "v1_0_1",
-        "lastModified": 1651556010,
-        "narHash": "sha256-FidMUcnGOfQ2VzT4qm4stKaOFhg5nLlGP63GntVl+UM=",
+        "lastModified": 1651918414,
+        "narHash": "sha256-cfkyywEzrIR5eEwc4VyyURPtGYR+7k2WhopXSLX5Odg=",
         "owner": "nim-nix-pkgs",
         "repo": "shioridll",
-        "rev": "f9aaffb75647195198464461679516e6911a2829",
+        "rev": "579a7984b79562c52dcc21eaed1dc7c5bd86f029",
         "type": "github"
       },
       "original": {
@@ -136,11 +136,11 @@
       },
       "locked": {
         "dir": "v2_0_0",
-        "lastModified": 1651556010,
-        "narHash": "sha256-FidMUcnGOfQ2VzT4qm4stKaOFhg5nLlGP63GntVl+UM=",
+        "lastModified": 1651918414,
+        "narHash": "sha256-cfkyywEzrIR5eEwc4VyyURPtGYR+7k2WhopXSLX5Odg=",
         "owner": "nim-nix-pkgs",
         "repo": "shioridll",
-        "rev": "f9aaffb75647195198464461679516e6911a2829",
+        "rev": "579a7984b79562c52dcc21eaed1dc7c5bd86f029",
         "type": "github"
       },
       "original": {
@@ -163,11 +163,11 @@
       },
       "locked": {
         "dir": "v3_0_0",
-        "lastModified": 1651556010,
-        "narHash": "sha256-FidMUcnGOfQ2VzT4qm4stKaOFhg5nLlGP63GntVl+UM=",
+        "lastModified": 1651918414,
+        "narHash": "sha256-cfkyywEzrIR5eEwc4VyyURPtGYR+7k2WhopXSLX5Odg=",
         "owner": "nim-nix-pkgs",
         "repo": "shioridll",
-        "rev": "f9aaffb75647195198464461679516e6911a2829",
+        "rev": "579a7984b79562c52dcc21eaed1dc7c5bd86f029",
         "type": "github"
       },
       "original": {
